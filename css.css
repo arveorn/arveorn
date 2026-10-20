@@ -513,7 +513,7 @@ img { max-width: 100%; display: block; }
     .section-subtitle { letter-spacing: 2px; }
     .section-content { padding: 100px 25px; }
 
-    .socials-grid { grid-template-columns: repeat(2, 1fr); gap: 14px; }
+    .socials-grid { grid-template-columns: 1fr; gap: 12px; }
     .social-card-main { padding: 22px 24px; gap: 18px; max-width: 100%; }
     .icon-placeholder-main { width: 54px; height: 54px; }
     .social-name-main { font-size: 18px; letter-spacing: 2px; }
