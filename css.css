@@ -558,3 +558,10 @@ img { max-width: 100%; display: block; }
     .lightbox-media img { max-height: 42vh; }
     .btn-more { padding: 12px 32px; letter-spacing: 3px; font-size: 13px; }
 }
+.section-divider {
+    height: 1px;
+    width: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+    position: relative;
+    z-index: 10;
+}
